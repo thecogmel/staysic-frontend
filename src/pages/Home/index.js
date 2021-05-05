@@ -7,7 +7,7 @@ import { TitleComponent } from './styles';
 function Home() {
   return (
     <Container fluid>
-      <TitleComponent className="mt-3">
+      <TitleComponent className="pt-3">
         <h1>Staysic</h1>
       </TitleComponent>
       <Toolbar />
