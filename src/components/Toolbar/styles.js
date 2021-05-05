@@ -4,6 +4,7 @@ export const ToolbarDiv = styled.div`
   .navbar-dark .navbar-nav .nav-link {
     color: black;
     font-size: 1.2rem;
+    transition: 0.2s;
   }
   .nav-link {
     width: 100px;
