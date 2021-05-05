@@ -1,0 +1,7 @@
+/* The following block can be included in a custom.scss */
+
+/* make the customizations */
+$theme-colors: (
+    "red": #8D0000
+);
+@import "~bootstrap/scss/bootstrap";

@@ -1,10 +1,17 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
+
+import Toolbar from '../../components/Toolbar';
+import { TitleComponent } from './styles';
 
 function Home() {
   return (
-    <div>
-      <h1>Hello world home</h1>
-    </div>
+    <Container fluid>
+      <TitleComponent className="mt-3">
+        <h1>Staysic</h1>
+      </TitleComponent>
+      <Toolbar />
+    </Container>
   );
 }
 
