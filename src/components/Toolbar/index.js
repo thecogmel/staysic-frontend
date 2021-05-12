@@ -19,7 +19,7 @@ function Toolbar() {
             <Nav.Link href="#features">Home</Nav.Link>
             <Nav.Link href="#pricing">Agenda</Nav.Link>
             <Nav.Link href="#pricing">Bio</Nav.Link>
-            <Nav.Link id="cast" href="#pricing">
+            <Nav.Link id="cast" href="/members">
               Integrantes
             </Nav.Link>
             <Nav.Link href="#pricing">Fotos</Nav.Link>
