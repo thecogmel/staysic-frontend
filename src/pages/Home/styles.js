@@ -14,3 +14,12 @@ export const TitleComponent = styled.div`
     text-align: center;
   }
 `;
+
+export const VideoComponent = styled.div`
+  .video {
+    width: 75%;
+    @media (max-width: 576px) {
+      width: 100%;
+    }
+  }
+`;
