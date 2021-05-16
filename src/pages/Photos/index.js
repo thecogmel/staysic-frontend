@@ -70,7 +70,7 @@ function Photos() {
                 sm={6}
                 className="d-flex justify-content-center flex-column mb-5"
               >
-                <Figure>
+                <Figure className="d-flex justify-content-center">
                   <Figure.Image
                     width={406}
                     height={227}
