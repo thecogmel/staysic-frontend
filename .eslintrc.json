@@ -36,6 +36,7 @@
       "react-hooks/exhaustive-deps": "warn",
       "react/jsx-uses-react": "error",
       "import/prefer-default-export": "off",
+      "no-ternary": "off",
       "no-unused-vars": [
         "warn",
         {
