@@ -17,7 +17,7 @@ function Toolbar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="m-auto">
             <Nav.Link href="#features">Home</Nav.Link>
-            <Nav.Link href="#pricing">Agenda</Nav.Link>
+            <Nav.Link href="/schedule">Agenda</Nav.Link>
             <Nav.Link href="#pricing">Bio</Nav.Link>
             <Nav.Link id="cast" href="/members">
               Integrantes
