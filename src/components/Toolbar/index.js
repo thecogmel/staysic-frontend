@@ -16,13 +16,13 @@ function Toolbar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="m-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/schedule">Agenda</Nav.Link>
             <Nav.Link href="/bio">Bio</Nav.Link>
             <Nav.Link id="cast" href="/members">
               Integrantes
             </Nav.Link>
-            <Nav.Link href="#pricing">Fotos</Nav.Link>
+            <Nav.Link href="/photos">Fotos</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
