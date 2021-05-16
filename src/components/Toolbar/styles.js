@@ -24,6 +24,7 @@ export const ToolbarDiv = styled.div`
       width: 100%;
       text-align: left;
       padding-left: 10px;
+      font-weight: bold;
     }
     .navbar {
       padding-top: 0.5rem !important;
