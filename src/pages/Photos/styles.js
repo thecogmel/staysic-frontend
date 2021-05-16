@@ -27,7 +27,6 @@ export const Content = styled.div`
     filter: brightness(32%);
   }
   .figure-caption {
-    width: 406px;
     text-align: center;
     font-family: 'Sickness';
     font-size: 1.5rem;
