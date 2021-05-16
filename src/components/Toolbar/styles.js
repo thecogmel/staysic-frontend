@@ -5,6 +5,7 @@ export const ToolbarDiv = styled.div`
     color: black;
     font-size: 1.2rem;
     transition: 0.2s;
+    font-weight: 600;
   }
   .nav-link {
     width: 100px;
