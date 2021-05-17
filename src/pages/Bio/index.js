@@ -27,27 +27,33 @@ function Bio() {
           <Row className="mt-4">
             <h2>Biografia</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-              feugiat tristique arcu, eget dictum libero consectetur eget.
-              Pellentesque pretium massa eget fringilla consectetur. Cras vel
-              odio egestas, rutrum tortor sit amet, lobortis lorem. Etiam ac
-              ligula bibendum mauris fermentum consequat. Sed rutrum tortor eget
-              metus maximus, vel mollis odio pretium. Vivamus sit amet purus
-              accumsan, pretium arcu a, pharetra ligula. In mattis auctor quam,
-              eget tempus lorem euismod sit amet. Proin sapien dolor, gravida
-              ultrices velit eu, efficitur elementum ex. Sed sed dapibus tortor.
-              Etiam bibendum elit consectetur tellus pretium, sit amet vulputate
-              odio sodales. Nam eget justo sapien. In semper mi odio, at
-              ullamcorper ligula malesuada in.
-            </p>{' '}
+              Era uma vez um menino chamado Gabriel, mais conhecido como Augusto
+              Carrara, ele tinha o sonho de ser igual o Corey Taylor, decidiu
+              montar sua própria banda cover do Slipknot.
+            </p>
             <p>
-              Integer vehicula vestibulum velit, vel faucibus lectus blandit
-              eget. Vivamus vel enim aliquet, finibus est vitae, accumsan
-              turpis. Praesent sit amet lobortis diam. Suspendisse volutpat
-              semper felis. Praesent fringilla augue erat, a lacinia lacus
-              semper sit amet. Proin lacinia iaculis ullamcorper. Curabitur sem
-              sem, elementum quis blandit at, blandit sit amet enim. Suspendisse
-              sit amet tempus arcu.
+              No entra e sai de integrantes ele acaba se desviando dos caminhos
+              do Senhor Corey, e volta ao mundo dos Flashbacks, mas ai seus
+              amigos vem reviver a chama que a pouco tinha se apagado, mas não
+              por completo, decido do que queria, voltou atrás e foi em busca de
+              seus sonhos, primeiro chamou dois guitarristas, chamados Zeca
+              Paugordim e Zeca Paufinim, também conhecidos como Vertinho e
+              André, depois conseguiu a ajuda de seu velho amigo de infância,
+              Thomas, que também era conhecido como Aquiles do Agreste, depois
+              conseguimos arrumar um baixista não muito groovador mas o mesmo
+              era nosso maior suporte nas dificuldades, e assim conseguiu montar
+              a banda The Nameless, que mais tarde viria a ser chamada de
+              Staysic, nome este indicado por Thomas.
+            </p>
+            <p>
+              E assim montamos esta banda, com o tempo convocamos a presença do
+              Lenhador Davi no backs, DJ HC nos Scratchs e Maicão pegador nos
+              Samplers e Teclado de notebook da NASA, (Não citaremos minions
+              nesta biografia kkkk) para darmos continuidade ao nosso trabalho
+              solidário e de suma importância para os ouvidos de grandes
+              apreciadores de música boa, essa é a história por trás da maior
+              banda cover de Natal/RN, gostaria que fosse melhor, porém melhor
+              que isso só dois disso, obg e boa tarde meu confrades.
             </p>
           </Row>
         </Content>
