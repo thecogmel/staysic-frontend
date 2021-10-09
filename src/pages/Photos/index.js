@@ -74,7 +74,7 @@ function Photos() {
                   <Figure.Image
                     width={406}
                     height={227}
-                    alt="Staysic-band"
+                    alt="Staysic-banda"
                     src={item.name}
                     onClick={item.handleShow}
                   />
